@@ -13,6 +13,9 @@ import javax.swing.*;
 
 public class DiceTests {
 
+
+
+    
     WebDriver driver;
     String mainPage = "https://www.dice.com/";
 
